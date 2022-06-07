@@ -13,11 +13,13 @@
 - 📫 How to reach me shaiksohailhu7n@gmail.com
 
 ### Connect with me:
-
+[![globe-light](https://user-images.githubusercontent.com/106341416/172428077-1dbdab7d-8d0d-4745-94b3-a8dde2952954.svg)](https://shaiksohail.xyz)
 [![globe-dark](https://user-images.githubusercontent.com/106341416/172015767-8ef4947b-a1cf-4089-92e8-8422746b166f.svg)](https://shaiksohail.xyz)
 &nbsp;&nbsp;
+[![linkedin-light](https://user-images.githubusercontent.com/106341416/172428168-122049a0-e050-4ee1-8bba-3922efffe519.svg)](https://www.linkedin.com/in/shaik-sohail-a7b7aa240)
 [![linkedin-dark](https://user-images.githubusercontent.com/106341416/172016033-73dcf129-4191-4f27-9c43-c3eeaa71af0b.svg)](https://www.linkedin.com/in/shaik-sohail-a7b7aa240)
 &nbsp;&nbsp;
+[![instagram-light](https://user-images.githubusercontent.com/106341416/172428250-edb7ac1b-d743-40e9-9374-2c5c7384a436.svg)](https://instagram.com/shaik_sohail_72?igshid=NWRhNmQxMjQ=)
 [![instagram-dark](https://user-images.githubusercontent.com/106341416/172015786-63471544-fec8-454a-837b-4a046d92fde7.svg)](https://instagram.com/shaik_sohail_72?igshid=NWRhNmQxMjQ=)
 
 ### Languages and Tools:
