@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there, I'm Shaik Sohail 👋</h1> 
-<h3 align="center">A MERN stack developer</h3>
+<h3 align="center">A Computer Science student.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaik-sohail-72" alt="shaik-sohail-72" /></a> </p>
 
