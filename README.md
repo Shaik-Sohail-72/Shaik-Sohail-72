@@ -6,7 +6,6 @@
 
   [![Website](https://img.shields.io/website?label=Shaiksohail.xyz&down_color=green&down_message=Up&style=for-the-badge&url=https%3A%2F%2Fshaiksohail.xyz)](https://shaiksohail.xyz/)
 - 🔭 I'm currently working on web based projects.
-- 🌱 I’m currently learning web3, unreal engine, kotlin.
 - 👯 I’m looking to collaborate on open source projects.
 - 😊 I like exploring and learning new skills as well as implement those in my projects.
 - 👨‍💻 You can also check my portfolio at https://shaiksohail.xyz/
