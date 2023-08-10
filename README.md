@@ -75,20 +75,3 @@
 
 ---
 
-### My recent websites:
-- [ShaikSohail.xyz](https://shaiksohail.xyz)
-- [Keeper App](https://keeper-app72.netlify.app/)
-- [Emojipedia](https://emojipedia72.netlify.app/)
-- [Secrets](https://secrets72.herokuapp.com/)
-- [Blog](https://blog72.herokuapp.com/)
-- [News Letter](https://newsletter72.herokuapp.com/)
-- [Todo List](https://todolist-webapp72.herokuapp.com/)
-- [Todo React App](https://todo-app72.netlify.app/)
-- [Clock](https://clock72.netlify.app/)
-- [Weather](https://weather-webapp72.herokuapp.com/)
-- [Drum Kit](https://drum-kit72.firebaseapp.com/)
-- [Dice Game](https://dice-game72.firebaseapp.com/)
-- [TinDog](https://tindog-website72.firebaseapp.com/)
-- [CSS Portfolio](https://css-portfolio72.firebaseapp.com/)
-- [HTML Personal Site](https://html-personal-site72.firebaseapp.com/)
-
