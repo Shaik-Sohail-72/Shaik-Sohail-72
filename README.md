@@ -8,7 +8,7 @@
 - 🔭 I'm currently working on web based projects.
 - 👯 I’m looking to collaborate on open source projects.
 - 😊 I like exploring and learning new skills as well as implement those in my projects.
-- 👨‍💻 You can also check my portfolio at https://shaiksohail.xyz/
+- 👨‍💻 You can also check my portfolio at https://shaiksohail.in/
 - 📫 How to reach me shaiksohailhu7n@gmail.com
 
 ### Connect with me:
